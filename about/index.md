@@ -10,5 +10,7 @@ type: about
 
 #爱好
 *钓鱼
+
 *游戏
+
 *news
