@@ -7,10 +7,3 @@ type: about
 ![avatar](/assets/images/about_pic.jpg)
 
 新浪微博：<https://www.weibo.com/sghbukm>
-
-#爱好
-*钓鱼
-
-*游戏
-
-*news
