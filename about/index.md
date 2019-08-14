@@ -8,7 +8,7 @@ type: about
 
 新浪微博：<https://www.weibo.com/sghbukm>
 
-### 爱好
+### 爱好：
 + 玩游戏
 + 钓鱼
 + 唱歌
