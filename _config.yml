@@ -84,7 +84,7 @@ keywords: "Jekyll, NexT"
 # Set rss to false to disable feed link.
 # Leave rss as empty to use site's feed link.
 # Set rss to specific value if you have burned your feed already.
-rss: true
+rss: /atom.xml
 微博: http://weibo.com/sghbukm
 豆瓣: https://www.douban.com/people/sghbukn/
 
