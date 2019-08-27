@@ -85,8 +85,6 @@ keywords: "Jekyll, NexT"
 # Leave rss as empty to use site's feed link.
 # Set rss to specific value if you have burned your feed already.
 rss: /atom.xml
-微博: http://weibo.com/sghbukm
-豆瓣: https://www.douban.com/people/sghbukn/
 
 # Specify the date when the site was setup
 #since: 2015
