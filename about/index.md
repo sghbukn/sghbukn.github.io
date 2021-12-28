@@ -12,3 +12,4 @@ type: about
 + 玩游戏
 + 钓鱼
 + 唱歌
+<a href="https://support.qq.com/product/1221" />联系我</a>
