@@ -6,10 +6,9 @@ type: about
 
 ![avatar](/assets/images/about_pic.jpg)
 
-微博：<https://www.weibo.com/sghbukm>
+微博：<https://www.weibo.com/sghbukm><a href="https://support.qq.com/product/1221" />联系我</a>
 
 ### 爱好：
 + 玩游戏
 + 钓鱼
 + 唱歌
-<a href="https://support.qq.com/product/1221" />联系我</a>
