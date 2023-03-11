@@ -6,7 +6,7 @@ type: about
 
 ![avatar](/assets/images/about_pic.jpg)
 
-微博：<https://www.weibo.com/sghbukm>
+微博：不用了
 
 ### 爱好：
 + 玩游戏
